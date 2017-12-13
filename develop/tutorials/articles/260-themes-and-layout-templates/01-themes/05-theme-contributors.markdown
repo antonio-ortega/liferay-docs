@@ -41,7 +41,7 @@ To create a Theme Contributor module, follow these steps:
 1.  Create a generic OSGi module using your favorite third party tool, or use
     [Blade CLI](/develop/tutorials/-/knowledge_base/7-0/blade-cli). You also
     can create a Liferay Theme Contributor as a Liferay Module using
-    the specific [Blade Template] (/develop/reference/-/knowledge_base/7-0/theme-contributor-template)
+    the specific [Blade Template](/develop/reference/-/knowledge_base/7-0/theme-contributor-template)
     for it, in which case you can skip step 2 in this tutorial.
 
 2.  To identify your module as a Theme Contributor, add the
@@ -93,4 +93,4 @@ The UI contributions affect every page and aren't affected by theme deployments.
 
 [Importing Resources with Your Themes](/develop/tutorials/-/knowledge_base/7-0/importing-resources-with-a-theme)
 
-[Theme Contributor Template] (/develop/reference/-/knowledge_base/7-0/theme-contributor-template)
+[Theme Contributor Template](/develop/reference/-/knowledge_base/7-0/theme-contributor-template)
